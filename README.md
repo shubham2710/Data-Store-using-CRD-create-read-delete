@@ -3,7 +3,7 @@ A File based key-Value Data Store that support CRD (Create , Read, Delete) .
 
 # How it Works ? 
 
-1. We Created a file-based data store which can be used as a local storage for one single process on one laptop .
+1. We have Created a file-based data store which can be used as a local storage for one single process on one laptop .
 
 2. 'main.py' includes all the functionalities such as Create , Delete , Read , Modify .
 
