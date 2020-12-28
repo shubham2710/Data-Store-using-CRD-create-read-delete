@@ -6,7 +6,7 @@ A File based key-Value Data Store that support CRD (Create , Read, Delete) .
 
 2. 'main.py' includes all the functionalities such as Create , Delete , Read , Modify .
 
-3. Inorder to make use of those of functionalities , we have created a another file 'accessing.py' in which we whave imported 'main.py' as a library.
+3. In order to make use of those of functionalities , we have created a another file 'accessing.py' in which we have imported 'main.py' as a library.
 
 4. So please go through the 'accessing.py' for working of data-store as it includes all the commands .
 
